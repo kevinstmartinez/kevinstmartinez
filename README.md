@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Scotiabank Colpatria<br>🌱 I’m currently learning Apache Airflow
+🌱 I’m currently learning AWS
 
 
 ## 🌐 Socials:
